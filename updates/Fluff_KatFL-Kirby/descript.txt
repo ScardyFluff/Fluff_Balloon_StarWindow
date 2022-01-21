@@ -1,0 +1,90 @@
+//Info
+charset,UTF-8
+type,balloon
+name,KatFL: Kirby's Balloon
+craftman,ScardyFluff
+craftmanurl,https://scardyfluff.github.io/Fluff_Website_GhostHub/
+homeurl,https://raw.githubusercontent.com/ScardyFluff/Fluff_Balloon_KatFL-Kirby/main/updates/Fluff_KatFL-Kirby/
+
+
+//PNA Disabler
+//use_self_alpha,1
+//use_input_alpha,1
+
+
+//Text Locations
+origin.x,32
+origin.y,23
+validrect.left,32
+validrect.top,23
+validrect.right,369
+validrect.bottom,106
+wordwrappoint.x,369
+wordwrappoint.y,106
+
+
+//Font Info
+font.name,Bubblegum Sans
+font.height,21
+font.color.r,0
+font.color.g,0
+font.color.b,0
+
+
+//Balloon Position
+windowposition.x,0
+windowposition.y,0
+
+
+//Other
+font.shadowcolor.r,-1
+font.shadowcolor.g,-1
+font.shadowcolor.b,-1
+anchor.font.color.r,237
+anchor.font.color.g,16
+anchor.font.color.b,10
+
+
+//Choice Markers
+cursor.blendmethod,none
+cursor.style,underline
+cursor.pen.color.r,241
+cursor.pen.color.g,235
+cursor.pen.color.b,227
+cursor.brush.color.r,200
+cursor.brush.color.g,200
+cursor.brush.color.b,200
+cursor.font.color.r,237
+cursor.font.color.g,16
+cursor.font.color.b,10
+
+
+//Image Markers
+arrow0.x,377
+arrow0.y,19
+arrow1.x,377
+arrow1.y,90
+onlinemarker.x,66
+onlinemarker.y,114
+sstpmarker.x,216
+sstpmarker.y,109
+sstpmessage.font.height,14
+sstpmessage.font.color.r,135
+sstpmessage.font.color.g,135
+sstpmessage.font.color.b,135
+sstpmessage.x,245
+sstpmessage.y,108
+number.font.name,Bubblegum Sans
+number.font.height,12
+number.font.color.r,135
+number.font.color.g,135
+number.font.color.b,135
+number.xr,123
+number.y,12
+
+
+//Communication Box
+communicatebox.x,40
+communicatebox.y,40
+communicatebox.width,360
+communicatebox.height,26
