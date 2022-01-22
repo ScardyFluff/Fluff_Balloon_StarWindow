@@ -1,7 +1,7 @@
 //Info
 charset,UTF-8
 type,balloon
-name,KatFL: Kirby's Balloon
+name,The Forgotten Land (Kirby)
 craftman,ScardyFluff
 craftmanurl,https://scardyfluff.github.io/Fluff_Website_GhostHub/
 homeurl,https://raw.githubusercontent.com/ScardyFluff/Fluff_Balloon_KatFL-Kirby/main/updates/Fluff_KatFL-Kirby/

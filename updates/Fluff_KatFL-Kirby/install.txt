@@ -1,5 +1,5 @@
 //Basic
 charset,UTF-8
 type,balloon
-name,KatFL: Kirby's Balloon
+name,The Forgotten Land (Kirby)
 directory,Fluff_KatFL-Kirby
