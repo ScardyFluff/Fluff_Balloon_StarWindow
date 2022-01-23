@@ -8,8 +8,8 @@ homeurl,https://raw.githubusercontent.com/ScardyFluff/Fluff_Balloon_KatFL-Kirby/
 
 
 //PNA Disabler
-//use_self_alpha,1
-//use_input_alpha,1
+use_self_alpha,1
+use_input_alpha,1
 
 
 //Text Locations
@@ -24,8 +24,8 @@ wordwrappoint.y,106
 
 
 //Font Info
-font.name,Bubblegum Sans
-font.height,21
+font.name,Outfit Medium
+font.height,20
 font.color.r,0
 font.color.g,0
 font.color.b,0
@@ -74,8 +74,8 @@ sstpmessage.font.color.g,135
 sstpmessage.font.color.b,135
 sstpmessage.x,245
 sstpmessage.y,108
-number.font.name,Bubblegum Sans
-number.font.height,12
+number.font.name,Outfit Regular
+number.font.height,15
 number.font.color.r,135
 number.font.color.g,135
 number.font.color.b,135
