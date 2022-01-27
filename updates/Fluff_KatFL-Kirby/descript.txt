@@ -10,25 +10,30 @@ homeurl,https://raw.githubusercontent.com/ScardyFluff/Fluff_Balloon_KatFL-Kirby/
 //PNA Disabler
 use_self_alpha,1
 use_input_alpha,1
+overlay_outside_balloon,1
 
 
 //Text Locations
-origin.x,32
-origin.y,23
-validrect.left,32
-validrect.top,23
-validrect.right,369
-validrect.bottom,106
-wordwrappoint.x,369
-wordwrappoint.y,106
+origin.x,48
+origin.y,36
+validrect.left,48
+validrect.top,36
+validrect.right,-48
+validrect.bottom,100
+wordwrappoint.x,-55
+wordwrappoint.y,104
 
 
 //Font Info
 font.name,Outfit Medium
 font.height,20
-font.color.r,0
-font.color.g,0
-font.color.b,0
+font.color.r,26
+font.color.g,105
+font.color.b,103
+font.shadowstyle,outline
+font.shadowcolor.r,255
+font.shadowcolor.g,255
+font.shadowcolor.b,255
 
 
 //Balloon Position
@@ -36,44 +41,59 @@ windowposition.x,0
 windowposition.y,0
 
 
-//Other
-font.shadowcolor.r,-1
-font.shadowcolor.g,-1
-font.shadowcolor.b,-1
-anchor.font.color.r,237
-anchor.font.color.g,16
-anchor.font.color.b,10
+//Anchor Markers
+anchor.blendmethod,none
+anchor.style,underline
+anchor.pen.color.r,255
+anchor.pen.color.g,255
+anchor.pen.color.b,255
+anchor.font.color.r,228
+anchor.font.color.g,96
+anchor.font.color.b,17
+anchor.visited.font.color.r,228
+anchor.visited.font.color.g,96
+anchor.visited.font.color.b,17
+anchor.visited.pen.color.r,255
+anchor.visited.pen.color.g,255
+anchor.visited.pen.color.b,255
 
 
 //Choice Markers
 cursor.blendmethod,none
 cursor.style,underline
-cursor.pen.color.r,241
-cursor.pen.color.g,235
-cursor.pen.color.b,227
-cursor.brush.color.r,200
-cursor.brush.color.g,200
-cursor.brush.color.b,200
-cursor.font.color.r,237
-cursor.font.color.g,16
-cursor.font.color.b,10
+cursor.pen.color.r,255
+cursor.pen.color.g,255
+cursor.pen.color.b,255
+//cursor.brush.color.r,255
+//cursor.brush.color.g,255
+//cursor.brush.color.b,255
+cursor.font.color.r,228
+cursor.font.color.g,96
+cursor.font.color.b,17
 
 
 //Image Markers
-arrow0.x,377
-arrow0.y,19
-arrow1.x,377
-arrow1.y,90
+arrow0.x,410
+arrow0.y,5
+arrow1.x,410
+arrow1.y,95
 onlinemarker.x,66
 onlinemarker.y,114
 sstpmarker.x,216
 sstpmarker.y,109
+
+
+//SSTP
+sstpmessage.font.name,Outfit Regular
 sstpmessage.font.height,14
 sstpmessage.font.color.r,135
 sstpmessage.font.color.g,135
 sstpmessage.font.color.b,135
 sstpmessage.x,245
 sstpmessage.y,108
+
+
+//Number
 number.font.name,Outfit Regular
 number.font.height,15
 number.font.color.r,135
