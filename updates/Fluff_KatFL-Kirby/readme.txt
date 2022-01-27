@@ -1,6 +1,6 @@
 Kirby and the Forgotten Land Styled Balloon (Kirby's Balloon)
 
-Link to Font: https://fonts.google.com/specimen/Arimo
+Link to Font: https://fonts.google.com/specimen/Outfit
 
 ------- Version History -------
 
