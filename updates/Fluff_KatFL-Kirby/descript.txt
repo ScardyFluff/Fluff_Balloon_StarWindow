@@ -1,10 +1,18 @@
+
+//--- descript.txt ---
+
 //Info
 charset,UTF-8
 type,balloon
 name,The Forgotten Land (Kirby)
 craftman,ScardyFluff
 craftmanurl,https://scardyfluff.github.io/Fluff_Website_GhostHub/
-homeurl,https://raw.githubusercontent.com/ScardyFluff/Fluff_Balloon_KatFL-Kirby/main/updates/Fluff_KatFL-Kirby/
+//homeurl,https://raw.githubusercontent.com/ScardyFluff/Fluff_Balloon_KatFL-Kirby/main/updates/Fluff_KatFL-Kirby/
+
+
+//Usability
+//recommended.ghost,
+//recommended.ghost.path,
 
 
 //PNA Disabler
@@ -20,12 +28,12 @@ validrect.left,48
 validrect.top,36
 validrect.right,-48
 validrect.bottom,100
-wordwrappoint.x,-55
+wordwrappoint.x,-60
 wordwrappoint.y,104
 
 
 //Font Info
-font.name,Outfit Medium
+font.name,Outfit Regular,Franklin Gothic Medium
 font.height,20
 font.color.r,26
 font.color.g,105
@@ -77,34 +85,38 @@ arrow0.x,410
 arrow0.y,5
 arrow1.x,410
 arrow1.y,95
-onlinemarker.x,66
-onlinemarker.y,114
-sstpmarker.x,216
-sstpmarker.y,109
+onlinemarker.x,37
+onlinemarker.y,126
+sstpmarker.x,257
+sstpmarker.y,99
 
 
 //SSTP
-sstpmessage.font.name,Outfit Regular
+sstpmessage.font.name,Outfit Regular,Franklin Gothic Medium
 sstpmessage.font.height,14
-sstpmessage.font.color.r,135
-sstpmessage.font.color.g,135
-sstpmessage.font.color.b,135
-sstpmessage.x,245
-sstpmessage.y,108
+sstpmessage.font.color.r,56
+sstpmessage.font.color.g,56
+sstpmessage.font.color.b,56
+sstpmessage.x,280
+sstpmessage.y,101
 
 
 //Number
-number.font.name,Outfit Regular
-number.font.height,15
-number.font.color.r,135
-number.font.color.g,135
-number.font.color.b,135
-number.xr,123
-number.y,12
+number.font.name,Outfit Regular,Franklin Gothic Medium
+number.font.height,13
+number.font.color.r,56
+number.font.color.g,56
+number.font.color.b,56
+number.xr,130
+number.y,101
 
 
 //Communication Box
-communicatebox.x,40
-communicatebox.y,40
-communicatebox.width,360
-communicatebox.height,26
+communicatebox.font.name,Outfit Regular,Franklin Gothic Medium
+communicatebox.font.color.r,26
+communicatebox.font.color.g,105
+communicatebox.font.color.b,103
+communicatebox.x,42
+communicatebox.y,33
+communicatebox.width,258
+communicatebox.height,32
