@@ -4,22 +4,19 @@
 //Info
 charset,UTF-8
 type,balloon
-name,The Forgotten Land (Kirby)
+name,Forgotten Land (Kirby)
 craftman,ScardyFluff
 craftmanurl,https://scardyfluff.github.io/Fluff_Website_GhostHub/
 //homeurl,https://raw.githubusercontent.com/ScardyFluff/Fluff_Balloon_KatFL-Kirby/main/updates/Fluff_KatFL-Kirby/
-
 
 //Usability
 //recommended.ghost,
 //recommended.ghost.path,
 
-
 //PNA Disabler
 use_self_alpha,1
 use_input_alpha,1
 overlay_outside_balloon,1
-
 
 //Text Locations
 origin.x,48
@@ -30,7 +27,6 @@ validrect.right,-48
 validrect.bottom,100
 wordwrappoint.x,-60
 wordwrappoint.y,104
-
 
 //Font Info
 font.name,Outfit Regular,Franklin Gothic Medium
@@ -43,11 +39,9 @@ font.shadowcolor.r,255
 font.shadowcolor.g,255
 font.shadowcolor.b,255
 
-
 //Balloon Position
 windowposition.x,0
 windowposition.y,0
-
 
 //Anchor Markers
 anchor.blendmethod,none
@@ -65,7 +59,6 @@ anchor.visited.pen.color.r,255
 anchor.visited.pen.color.g,255
 anchor.visited.pen.color.b,255
 
-
 //Choice Markers
 cursor.blendmethod,none
 cursor.style,underline
@@ -79,7 +72,6 @@ cursor.font.color.r,228
 cursor.font.color.g,96
 cursor.font.color.b,17
 
-
 //Image Markers
 arrow0.x,410
 arrow0.y,5
@@ -90,16 +82,14 @@ onlinemarker.y,126
 sstpmarker.x,257
 sstpmarker.y,99
 
-
 //SSTP
 sstpmessage.font.name,Outfit Regular,Franklin Gothic Medium
 sstpmessage.font.height,14
 sstpmessage.font.color.r,56
 sstpmessage.font.color.g,56
 sstpmessage.font.color.b,56
-sstpmessage.x,280
+sstpmessage.x,281
 sstpmessage.y,101
-
 
 //Number
 number.font.name,Outfit Regular,Franklin Gothic Medium
@@ -110,13 +100,12 @@ number.font.color.b,56
 number.xr,130
 number.y,101
 
-
 //Communication Box
 communicatebox.font.name,Outfit Regular,Franklin Gothic Medium
 communicatebox.font.color.r,26
 communicatebox.font.color.g,105
 communicatebox.font.color.b,103
-communicatebox.x,42
-communicatebox.y,33
-communicatebox.width,258
+communicatebox.x,37
+communicatebox.y,37
+communicatebox.width,310
 communicatebox.height,32

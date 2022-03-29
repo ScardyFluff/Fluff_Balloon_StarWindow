@@ -1,38 +1,35 @@
 
 //--- balloons2s.txt ---
+// \b[2]
 
 //Text Locations
-origin.x,48
-origin.y,36
-validrect.left,48
-validrect.top,36
-validrect.right,-48
-validrect.bottom,100
-wordwrappoint.x,-60
-wordwrappoint.y,104
-
+//origin.x,48
+//origin.y,36
+//validrect.left,48
+//validrect.top,36
+//validrect.right,-48
+validrect.bottom,447
+//wordwrappoint.x,-60
+//wordwrappoint.y,104
 
 //Balloon Position
-windowposition.x,0
-windowposition.y,0
-
+//windowposition.x,0
+//windowposition.y,0
 
 //Image Markers
-arrow0.x,410
-arrow0.y,4
-arrow1.x,410
-arrow1.y,440
-onlinemarker.x,37
-onlinemarker.y,126
-sstpmarker.x,257
-sstpmarker.y,99
-
+//arrow0.x,410
+arrow0.y,3
+//arrow1.x,410
+arrow1.y,442
+//onlinemarker.x,37
+onlinemarker.y,473
+//sstpmarker.x,257
+sstpmarker.y,446
 
 //SSTP
-sstpmessage.x,280
-sstpmessage.y,101
-
+//sstpmessage.x,281
+sstpmessage.y,448
 
 //Number
-number.xr,130
-number.y,101
+//number.xr,130
+number.y,448

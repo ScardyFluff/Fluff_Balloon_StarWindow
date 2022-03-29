@@ -1,31 +1,35 @@
-//--Balloons3s.txt
-//Because the balloons I made for this template match each other in size, even the big balloons can share the same specialized txt file. This is basically a cleaned up copy of balloons2s.txt. For more details, read that file!
 
+//--- balloons3s.txt ---
+// \b[3]
 
-origin.x,31
-origin.y,19
+//Text Locations
+//origin.x,48
+//origin.y,36
+//validrect.left,48
+//validrect.top,36
+//validrect.right,-48
+validrect.bottom,447
+//wordwrappoint.x,-60
+//wordwrappoint.y,104
 
-validrect.left,29
-validrect.top,18
-validrect.right,217
-validrect.bottom,312
+//Balloon Position
+//windowposition.x,0
+//windowposition.y,0
 
-wordwrappoint.x,205
-wordwrappoint.y,0
+//Image Markers
+//arrow0.x,410
+arrow0.y,3
+//arrow1.x,410
+arrow1.y,442
+//onlinemarker.x,37
+onlinemarker.y,473
+//sstpmarker.x,257
+sstpmarker.y,446
 
-arrow0.x,222
-arrow0.y,16
-arrow1.x,222
-arrow1.y,303
+//SSTP
+//sstpmessage.x,281
+sstpmessage.y,448
 
-onlinemarker.x,28
-onlinemarker.y,325
-
-sstpmarker.x,30
-sstpmarker.y,302
-
-sstpmessage.x,40
-sstpmessage.y,302
-
-number.xr,230
-number.y,325
+//Number
+//number.xr,130
+number.y,448

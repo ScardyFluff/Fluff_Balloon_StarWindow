@@ -1,5 +1,8 @@
-//Basic
+
+//--- install.txt ---
+
+//Info
 charset,UTF-8
 type,balloon
-name,The Forgotten Land (Kirby)
+name,Forgotten Land (Kirby)
 directory,Fluff_KatFL-Kirby
