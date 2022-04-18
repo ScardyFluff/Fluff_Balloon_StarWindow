@@ -1,4 +1,4 @@
-# Balloon: The Forgotten Land (Kirby)
-A Balloon for ghosts based on Kirby and the Forgotten Land.
+# Balloon: Star Window
+A Balloon for ghosts inspired by Kirby and the Forgotten Land.
 
-This one is for the Kirby Ghost.
+Works best for the ghost: Kirby of the Stars
