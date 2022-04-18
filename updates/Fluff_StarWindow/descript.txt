@@ -4,14 +4,13 @@
 //Info
 charset,UTF-8
 type,balloon
-name,Forgotten Land (Kirby)
+name,Star Window
 craftman,ScardyFluff
 craftmanurl,https://scardyfluff.github.io/Fluff_Website_GhostHub/
-//homeurl,https://raw.githubusercontent.com/ScardyFluff/Fluff_Balloon_KatFL-Kirby/main/updates/Fluff_KatFL-Kirby/
+homeurl,https://raw.githubusercontent.com/ScardyFluff/Fluff_Balloon_StarWindow/main/updates/Fluff_StarWindow/
 
 //Usability
-//recommended.ghost,
-//recommended.ghost.path,
+recommended.ghost.path,Fluff_KirbyOfTheStars
 
 //PNA Disabler
 use_self_alpha,1

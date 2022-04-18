@@ -1,0 +1,35 @@
+
+//--- balloonk0s.txt ---
+// \b[0]
+
+//Text Locations
+//origin.x,48
+//origin.y,36
+//validrect.left,48
+//validrect.top,36
+//validrect.right,-48
+//validrect.bottom,100
+//wordwrappoint.x,-60
+//wordwrappoint.y,104
+
+//Balloon Position
+//windowposition.x,0
+//windowposition.y,0
+
+//Image Markers
+//arrow0.x,410
+//arrow0.y,5
+//arrow1.x,410
+//arrow1.y,95
+//onlinemarker.x,37
+//onlinemarker.y,126
+//sstpmarker.x,257
+//sstpmarker.y,99
+
+//SSTP
+//sstpmessage.x,281
+//sstpmessage.y,101
+
+//Number
+//number.xr,130
+//number.y,101

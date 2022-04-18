@@ -1,0 +1,35 @@
+
+//--- balloons3s.txt ---
+// \b[3]
+
+//Text Locations
+//origin.x,48
+//origin.y,36
+//validrect.left,48
+//validrect.top,36
+//validrect.right,-48
+validrect.bottom,449
+//wordwrappoint.x,-60
+//wordwrappoint.y,104
+
+//Balloon Position
+//windowposition.x,0
+//windowposition.y,0
+
+//Image Markers
+//arrow0.x,410
+arrow0.y,5
+//arrow1.x,410
+arrow1.y,444
+//onlinemarker.x,37
+onlinemarker.y,475
+//sstpmarker.x,257
+sstpmarker.y,448
+
+//SSTP
+//sstpmessage.x,281
+sstpmessage.y,450
+
+//Number
+//number.xr,130
+number.y,450

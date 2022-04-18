@@ -4,5 +4,5 @@
 //Info
 charset,UTF-8
 type,balloon
-name,Forgotten Land (Kirby)
-directory,Fluff_KatFL-Kirby
+name,Star Window
+directory,Fluff_StarWindow

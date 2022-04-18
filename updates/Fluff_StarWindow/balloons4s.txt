@@ -1,6 +1,6 @@
 
-//--- balloons3s.txt ---
-// \b[3]
+//--- balloons4s.txt ---
+// \b[4]
 
 //Text Locations
 //origin.x,48
@@ -8,7 +8,7 @@
 //validrect.left,48
 //validrect.top,36
 //validrect.right,-48
-validrect.bottom,447
+validrect.bottom,252
 //wordwrappoint.x,-60
 //wordwrappoint.y,104
 
@@ -20,16 +20,16 @@ validrect.bottom,447
 //arrow0.x,410
 arrow0.y,3
 //arrow1.x,410
-arrow1.y,442
+arrow1.y,247
 //onlinemarker.x,37
-onlinemarker.y,473
+onlinemarker.y,278
 //sstpmarker.x,257
-sstpmarker.y,446
+sstpmarker.y,251
 
 //SSTP
 //sstpmessage.x,281
-sstpmessage.y,448
+sstpmessage.y,253
 
 //Number
 //number.xr,130
-number.y,448
+number.y,253
