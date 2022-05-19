@@ -24,7 +24,7 @@ arrow1.y,444
 //onlinemarker.x,37
 onlinemarker.y,475
 //sstpmarker.x,257
-sstpmarker.y,448
+sstpmarker.y,446
 
 //SSTP
 //sstpmessage.x,281

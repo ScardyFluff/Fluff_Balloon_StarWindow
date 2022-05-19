@@ -23,8 +23,8 @@
 //arrow1.y,95
 //onlinemarker.x,37
 //onlinemarker.y,126
-//sstpmarker.x,257
-//sstpmarker.y,99
+//sstpmarker.x,256
+//sstpmarker.y,97
 
 //SSTP
 //sstpmessage.x,281
